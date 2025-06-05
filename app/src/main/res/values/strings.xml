@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">猜数字游戏</string>
+    <string name="guess_count">猜测次数: %1$d/%2$d</string>
+    <string name="initial_hint">我已经想好了一个1到100之间的数字，你可以开始猜了！</string>
+    <string name="enter_guess">输入你的猜测</string>
+    <string name="guess">猜一猜</string>
+    <string name="reset">重新开始</string>
+    <string name="too_low">太小了！再大一点</string>
+    <string name="too_high">太大了！再小一点</string>
+    <string name="enter_number">请输入一个数字</string>
+    <string name="invalid_number">无效的数字</string>
+    <string name="number_range_error">请输入1-100之间的数字</string>
+    <string name="congratulations">恭喜你！</string>
+    <string name="correct_answer">正确答案是 %1$d！你用了 %2$d 次猜对了。</string>
+    <string name="game_over">游戏结束</string>
+    <string name="out_of_guesses">你已经用完了所有的猜测次数。正确答案是 %1$d。</string>
+    <string name="play_again">再玩一次</string>
+</resources>
